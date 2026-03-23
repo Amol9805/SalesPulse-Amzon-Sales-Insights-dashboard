@@ -159,7 +159,7 @@ This page analyzes customer satisfaction patterns.
 * Branch-level rating variations highlight service differences
 
 ### Screenshot/Demos:
-* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/Rating.png)
 ---
 
 ## 🔷 Interactivity Features
