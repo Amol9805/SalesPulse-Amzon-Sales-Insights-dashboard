@@ -113,6 +113,8 @@ This page provides insights into overall sales performance and trends.
 * Identifies top-performing cities
 * Analyzes time-based purchasing behavior
 
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
 ---
 
 ## 🟢 3. Customer Analysis
@@ -156,6 +158,8 @@ This page analyzes customer satisfaction patterns.
 * Certain days show slightly higher customer satisfaction
 * Branch-level rating variations highlight service differences
 
+### Screenshot/Demos:
+* Example:  ![Dashboard Preview](https://github.com/Amol9805/Amzon-Sales-dashboard/blob/main/ProductionLine.png)
 ---
 
 ## 🔷 Interactivity Features
